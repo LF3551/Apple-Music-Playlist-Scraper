@@ -24,6 +24,7 @@ python apple_music_scraper.py
 ### Example Output
 
 Here's a sample of the output you can expect:
+```
 [
     {
         "Artist": "Artist Name 1",
@@ -35,3 +36,4 @@ Here's a sample of the output you can expect:
     }
     // ... more songs
 ]
+```
